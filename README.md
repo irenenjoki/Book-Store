@@ -1,5 +1,7 @@
 # RoutingDemo
 
+![Screenshot (126)](https://user-images.githubusercontent.com/85219856/177013926-5151f35a-a00c-40bb-9243-f6098b8b5c6c.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
